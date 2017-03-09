@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="pioneers.safwat.animals.CardDemoActivity">
+    <item
+        android:id="@+id/linlayout"
+        android:orderInCategory="100"
+        android:title="@string/linlayout"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/grlayout"
+        android:orderInCategory="100"
+        android:title="@string/grlayout"
+        app:showAsAction="never" />
+
+</menu>

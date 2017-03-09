@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Animals and Birds Sounds</string>
+    <string name="linlayout">Linear Layout</string>
+    <string name="grlayout">Grid Layout</string>
+</resources>
